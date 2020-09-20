@@ -13,7 +13,7 @@ var x = document.getElementById("img1");
 
 window.addEventListener('load',function(){
   
- var Position=["./img/blue.png", "./img/water.png"];
+ var Position=["./img/blue.png", "./img/water.png", "./img/Pngtr.png"];
  console.log(Position.length);
  x.style.backgroundImage=`url(${Position[pos]})`;
   x//.style.backgroundImage=Position[0].
