@@ -86,7 +86,7 @@ a{
 
   
 }
-@media screen and (max-width: 768px){
+@media screen and (max-width: 500px){
 #menu{
 	width: 35px;
 	height: 30px;
